@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000540435256",
+    "project_id": "fir-reactam",
+    "storage_bucket": "fir-reactam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000540435256:android:6481c6e8e76cf26d9207cd",
+        "android_client_info": {
+          "package_name": "com.reactfirebaseam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000540435256-j2rutq0e7tla7u2a8hqqa9gqsb5l3h9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApAfUzrYuVtiD0LYOqbA0TcKH8rgHftrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000540435256-j2rutq0e7tla7u2a8hqqa9gqsb5l3h9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
